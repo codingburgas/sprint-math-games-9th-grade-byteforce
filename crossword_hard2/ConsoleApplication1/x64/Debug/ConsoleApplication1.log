@@ -1,0 +1,162 @@
+﻿  ConsoleApplication1.cpp
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,8): error C2065: 'Crosswordentry': undeclared identifier
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,1): error C2923: 'std::vector': 'Crosswordentry' is not a valid template type argument for parameter '_Ty'
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,8):
+      see declaration of 'Crosswordentry'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,1): error C2976: 'std::vector': too few template arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      see declaration of 'std::vector'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,36): error C2514: 'std::vector': class template cannot be constructed
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      see declaration of 'std::vector'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27): error C2663: 'std::vector<_Ty,_Alloc>::_Unchecked_begin': no overloaded function has valid conversion for 'this' pointer
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1854,40):
+      could be 'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+          'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1850,34):
+      or       '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+          '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept': cannot convert 'this' pointer from 'std::vector' to 'std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Reason: cannot convert from 'std::vector' to 'std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+      while trying to match the argument list '()'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27): error C2663: 'std::vector<_Ty,_Alloc>::_Unchecked_end': no overloaded function has valid conversion for 'this' pointer
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1862,40):
+      could be 'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+          'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1858,34):
+      or       '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+          '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept': cannot convert 'this' pointer from 'std::vector' to 'std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Reason: cannot convert from 'std::vector' to 'std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,27):
+      while trying to match the argument list '()'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27): error C2663: 'std::vector<_Ty,_Alloc>::_Unchecked_begin': no overloaded function has valid conversion for 'this' pointer
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1854,40):
+      could be 'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+          'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1850,34):
+      or       '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+          '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept': cannot convert 'this' pointer from 'std::vector' to 'std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Reason: cannot convert from 'std::vector' to 'std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+      while trying to match the argument list '()'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27): error C2663: 'std::vector<_Ty,_Alloc>::_Unchecked_end': no overloaded function has valid conversion for 'this' pointer
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1862,40):
+      could be 'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+          'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1858,34):
+      or       '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+          '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept': cannot convert 'this' pointer from 'std::vector' to 'std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Reason: cannot convert from 'std::vector' to 'std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+              Conversion requires a second user-defined-conversion operator or constructor
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(54,27):
+      while trying to match the argument list '()'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56,13): error C2065: 'uppersGuess': undeclared identifier
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56,3): error C2672: 'transform': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(3754,21):
+      could be '_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56,3):
+          '_OutIt std::transform(const _InIt1,const _InIt1,const _InIt2,_OutIt,_Fn)': expects 5 arguments - 4 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(3734,21):
+      or       '_OutIt std::transform(const _InIt,const _InIt,_OutIt,_Fn)'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(60,1): error C2059: syntax error: 'return'
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(61,1): error C2059: syntax error: '}'
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(61,1): error C2143: syntax error: missing ';' before '}'
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,65): error C2143: syntax error: missing ';' before '{'
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,65): error C2447: '{': missing function header (old-style formal list?)
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28): error C2663: 'std::vector<_Ty,_Alloc>::_Unchecked_begin': no overloaded function has valid conversion for 'this' pointer
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1854,40):
+      could be 'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+          'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1850,34):
+      or       '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+          '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept': cannot convert 'this' pointer from 'std::vector' to 'std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Reason: cannot convert from 'std::vector' to 'std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Conversion requires a second user-defined-conversion operator or constructor
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+      while trying to match the argument list '()'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28): error C2663: 'std::vector<_Ty,_Alloc>::_Unchecked_end': no overloaded function has valid conversion for 'this' pointer
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1862,40):
+      could be 'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+          'const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Conversion requires a second user-defined-conversion operator or constructor
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1858,34):
+      or       '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept'
+          D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+          '_Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept': cannot convert 'this' pointer from 'std::vector' to 'std::vector<_Ty,_Alloc> &'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Reason: cannot convert from 'std::vector' to 'std::vector<_Ty,_Alloc>'
+              D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+              Conversion requires a second user-defined-conversion operator or constructor
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,28):
+      while trying to match the argument list '()'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(205,5): error C3861: 'updateCrossword': identifier not found
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(208,70): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(208,60):
+      Reason: cannot convert from 'std::vector' to 'const std::vector<_Ty,_Alloc>'
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(208,60):
+      Conversion requires a second user-defined-conversion operator or constructor
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1871,39):
+      see declaration of 'std::vector<_Ty,_Alloc>::size'
+      D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(208,70):
+      while trying to match the argument list '()'
+  
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(208,77): warning C4552: '<<': result of expression not used
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(210,3): error C2181: illegal else without matching if
+D:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(237,1): error C1004: unexpected end-of-file found
