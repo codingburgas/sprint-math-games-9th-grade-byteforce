@@ -11,7 +11,7 @@ The main purpose of our game "Crossword" is to make people have fun, while they 
 For the game and its commit:
 <p align="left">
   <a href="https://visualstudio.microsoft.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20191019024151" alt="visual_studio_logo" width=48px /> </a>
-  <a href="https://github.com/dashboard"><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="github_logo" width=48px /> </a>
+  <a href="https://github.com/dashboard"><img src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" alt="github_logo" width=48px /> </a>
 </p>
 
 For the design:
@@ -26,10 +26,10 @@ Languages:
 
 For documents and communication:
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word?msockid=39e6725c97be65811ad566e29617647a"><img src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-3-1.png" alt="word_logo" width=48px /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint?msockid=39e6725c97be65811ad566e29617647a"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-powerpoint-icon.png" alt="powerpoint_logo" width=48px /></a>
-  <a href="https://teams.microsoft.com/v2/?skipauthstrap=1"><img src="https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png" alt="teams_logo" width=48px /></a>
-  <a href="https://discord.com/"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Emblem.png" alt="discord_logo" width=48px /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word?msockid=39e6725c97be65811ad566e29617647a"><img src="https://img.icons8.com/color/344/ms-word.png" alt="word_logo" width=48px /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint?msockid=39e6725c97be65811ad566e29617647a"><img src="https://img.icons8.com/color/344/ms-powerpoint.png" alt="powerpoint_logo" width=48px /></a>
+  <a href="https://teams.microsoft.com/v2/?skipauthstrap=1"><img src="https://img.icons8.com/color/344/microsoft-teams.png" alt="teams_logo" width=48px /></a>
+  <a href="https://discord.com/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1-599x599.png" alt="discord_logo" width=48px /></a>
 </p>
 <br>
 <hr>
