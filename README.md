@@ -2,7 +2,7 @@
 
 
 ## About the game 👾🎮
-The main purpose of our game "Crossword" is to make people have fun, while they are testing and improving the level of their vocabulary. 
+The main purpose of our game "Crossword" is for people to have fun, while they are testing and improving the level of their vocabulary. 
 
 <br>
 <hr>
