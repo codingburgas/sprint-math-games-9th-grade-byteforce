@@ -10,8 +10,8 @@ The main purpose of our game "Crossword" is to make people have fun, while they 
 ## Used Aplications
 For the game and its commit:
 <p align="left">
-  <a href="https://visualstudio.microsoft.com/"><img src="https://www.stickpng.com/img/icons-logos-emojis/tech-    companies/visual-studio-logo-icon" alt="visual_studio_logo" width=48px /> </a>
-  <a href="https://github.com/dashboard"><img src="https://logos-world.net/github-logo/" alt="github_logo" width=48px /> </a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20191019024151" alt="visual_studio_logo" width=48px /> </a>
+  <a href="https://github.com/dashboard"><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="github_logo" width=48px /> </a>
 </p>
 
 For the design:
@@ -26,7 +26,7 @@ Languages:
 
 For documents and communication:
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word?msockid=39e6725c97be65811ad566e29617647a"><img src="https://logodownload.org/microsoft-word-logo/" alt="word_logo" width=48px /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word?msockid=39e6725c97be65811ad566e29617647a"><img src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-3-1.png" alt="word_logo" width=48px /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint?msockid=39e6725c97be65811ad566e29617647a"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-powerpoint-icon.png" alt="powerpoint_logo" width=48px /></a>
   <a href="https://teams.microsoft.com/v2/?skipauthstrap=1"><img src="https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png" alt="teams_logo" width=48px /></a>
   <a href="https://discord.com/"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Emblem.png" alt="discord_logo" width=48px /></a>
@@ -35,8 +35,8 @@ For documents and communication:
 <hr>
 
 ## Our team
-Scrum trainer - <a href = "https://github.com/AYAAtanasov23"> Alexey Atanasov </a>
-Front-end Developer - <a href = "https://github.com/DZPetrov23"> Danail Petrov </a>
-Back-end Developer - <a href = "https://github.com/PVStojkov23"> Petar Stojkov </a>
-Designer - <a href = "https://github.com/VMDamyanova23"> Valeriya Damyanova </a>
+Scrum trainer - <a href = "https://github.com/AYAAtanasov23"> Alexey Atanasov </a><br>
+Front-end Developer - <a href = "https://github.com/DZPetrov23"> Danail Petrov </a><br>
+Back-end Developer - <a href = "https://github.com/PVStojkov23"> Petar Stojkov </a><br>
+Designer - <a href = "https://github.com/VMDamyanova23"> Valeriya Damyanova </a><br>
 
