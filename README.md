@@ -1,13 +1,13 @@
-<h1 align="center">ByteForce</h1>
+<h1 align="center">💪🏻 ByteForce 💪🏻</h1>
 
 
-## About the game
+## About the game 👾🎮
 The main purpose of our game "Crossword" is to make people have fun, while they are testing and improving the level of their vocabulary. 
 
 <br>
 <hr>
 
-## Used Aplications
+## Used Aplications 🔧
 For the game and its commit:
 <p align="left">
   <a href="https://visualstudio.microsoft.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20191019024151" alt="visual_studio_logo" width=48px /> </a>
@@ -34,7 +34,7 @@ For documents and communication:
 <br>
 <hr>
 
-## Our team
+## Our team 👩🏻‍💻🧑🏼‍💻
 Scrum trainer - <a href = "https://github.com/AYAAtanasov23"> Alexey Atanasov </a><br>
 Front-end Developer - <a href = "https://github.com/DZPetrov23"> Danail Petrov </a><br>
 Back-end Developer - <a href = "https://github.com/PVStojkov23"> Petar Stojkov </a><br>
