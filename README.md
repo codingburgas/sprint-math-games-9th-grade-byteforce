@@ -1,6 +1,6 @@
 <h1 align="center">💪🏻 ByteForce 💪🏻</h1>
 <div align="center">
-  <img src="byteforce_logo.png" alt="Logo" width="300"/>
+  <img src="https://github.com/codingburgas/sprint-math-games-9th-grade-byteforce/blob/main/Presentation/byteforce%20logo.png" alt="Logo" width="300"/>
 </div>
 
 
