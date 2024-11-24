@@ -9,7 +9,7 @@ vector<CrosswordEntryMedium2> crossword = {
 {"UPDATE", "To bring something up to date or improve it.", 4 },
 {"CREATIVITY", "The use of imagination to create something new or original.", 5  },
 {"BRAINY", "Showing intelligence or cleverness.", 6 },
-{"UPDATE", "To bring something up to date or improve it.", 7 }
+{"JACKET", "Something that keeps you warm in the winter", 7 }
 
 };
 // Function to display the crossword layout
