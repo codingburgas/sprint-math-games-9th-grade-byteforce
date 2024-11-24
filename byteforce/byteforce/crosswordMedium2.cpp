@@ -3,13 +3,13 @@
 #include "crosswordMedium1.h"
 // Initialize the crossword puzzle with answers and clues
 vector<CrosswordEntryMedium2> crossword = {
-    { "PROCESS", "A series of actions taken to achieve a result.", 1 },
-{ "OPERATIONS", "Steps or tasks carried out to achieve a goal.", 2 },
-{ "REQUEST", "A formal or polite demand for something.", 3 },
+{"PROCESS", "A series of actions taken to achieve a result.", 1 },
+{"OPERATIONS", "Steps or tasks carried out to achieve a goal.", 2 },
+{"REQUEST", "A formal or polite demand for something.", 3 },
 {"UPDATE", "To bring something up to date or improve it.", 4 },
-{ "CREATIVITY", "The use of imagination to create something new or original.", 5  },
-{ "BRAINY", "Showing intelligence or cleverness.", 6 },
-{ "UPDATE", "To bring something up to date or improve it.", 7 }
+{"CREATIVITY", "The use of imagination to create something new or original.", 5  },
+{"BRAINY", "Showing intelligence or cleverness.", 6 },
+{"UPDATE", "To bring something up to date or improve it.", 7 }
 
 };
 // Function to display the crossword layout

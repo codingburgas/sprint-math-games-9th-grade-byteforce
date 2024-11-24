@@ -199,6 +199,7 @@ int main() {
     for (const auto& entry : crossword) {
         string guess;
         cout << "\nEnter your guess for " << entry.number << " Across: ";
+        cin.ignore();
         getline(std::cin, guess); // Get user's guess
 
         if (checkGuess(entry.number, guess)) {
