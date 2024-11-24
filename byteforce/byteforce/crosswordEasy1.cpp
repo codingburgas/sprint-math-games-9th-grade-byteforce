@@ -181,6 +181,7 @@ void crossowrdEasy1() {
     displayCluesEasy1();
 
     int correctAnswers = 0;
+    cin.ignore();
     for (const auto& entry : crosswordEasy1) {
         string guess;
         cout << "\nEnter your guess for " << entry.number << " Across: ";

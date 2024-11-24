@@ -1,5 +1,8 @@
 #include "menu.h"
 #include "crosswordEasy1.h"
+#include "crosswordMedium1.h"
+#include "crosswordHard1.h"
+#include "rules.h"
 
 void chooseLevel()
 {
@@ -14,7 +17,10 @@ void chooseLevel()
 	switch (choice)
 	{
 	case 1: crossowrdEasy1();
+	case 2: crosswordMedium1();
+	case 3: crosswordHard1();
 	}
+
 }
 
 void showRules()
@@ -51,14 +57,11 @@ void menu()
 			chooseLevel();
 			break;
 		case 2:
-			showRules();
+			displayRules();
 			break;
 		case 3:
 			cout << LIGHTAQUA << "Thank you for playing!" << endl;
-			return; // Exit the function
-		default:
-			cout << LIGHTAQUA << "Invalid choice. Please try again." << endl;
-			break;
+			exit(0);
 		}
 	}
 }

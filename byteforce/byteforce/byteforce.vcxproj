@@ -130,12 +130,24 @@
     <ClCompile Include="byteforce.cpp" />
     <ClCompile Include="crosswordEasy1.cpp" />
     <ClCompile Include="crosswordEasy2.cpp" />
+    <ClCompile Include="crosswordHard1.cpp" />
+    <ClCompile Include="crosswordHard2.cpp" />
+    <ClCompile Include="crosswordMedium1.cpp" />
+    <ClCompile Include="crosswordMedium2.cpp" />
+    <ClCompile Include="frontPage.cpp" />
     <ClCompile Include="menu.cpp" />
+    <ClCompile Include="rules.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="crosswordEasy1.h" />
     <ClInclude Include="crosswordEasy2.h" />
+    <ClInclude Include="crosswordHard1.h" />
+    <ClInclude Include="crosswordHard2.h" />
+    <ClInclude Include="crosswordMedium1.h" />
+    <ClInclude Include="crosswordMedium2.h" />
+    <ClInclude Include="frontPage.h" />
     <ClInclude Include="menu.h" />
+    <ClInclude Include="rules.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

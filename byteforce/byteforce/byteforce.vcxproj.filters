@@ -27,6 +27,24 @@
     <ClCompile Include="crosswordEasy2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="frontPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rules.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crosswordMedium1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crosswordMedium2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crosswordHard1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crosswordHard2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="menu.h">
@@ -36,6 +54,24 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="crosswordEasy2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="frontPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rules.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crosswordMedium1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crosswordMedium2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crosswordHard1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crosswordHard2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
